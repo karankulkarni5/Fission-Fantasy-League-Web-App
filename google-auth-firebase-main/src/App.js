@@ -8,6 +8,9 @@ import Account from './pages/Account';
 import Home from './pages/Home';
 import Signin from './pages/Signin';
 import West from './pages/West';
+import East from './pages/East';
+import North from './pages/North';
+import South from './pages/South';
 
 function App() {
   return (
@@ -23,6 +26,7 @@ function App() {
               <Protected>
                 <ProtectedNavbar />
                 <Account />
+                <West/>
               </Protected>
             }
           />

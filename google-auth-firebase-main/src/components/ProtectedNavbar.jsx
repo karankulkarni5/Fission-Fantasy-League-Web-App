@@ -8,10 +8,10 @@ const ProtectedNavbar = () => {
 
       <ul>
         <li>
-          <a className='text-center text-2xl font-bold' href="WestRegister">West&emsp;</a>
-          <a className='text-center text-2xl font-bold' href="NorthRegister">North&emsp;</a>
-          <a className='text-center text-2xl font-bold' href="EastRegister">East&emsp;</a>
-          <a className='text-center text-2xl font-bold' href="SouthRegister">South&emsp;</a>
+          <a className='text-center text-2xl font-bold' href="West">West&emsp;</a>
+          <a className='text-center text-2xl font-bold' href="North">North&emsp;</a>
+          <a className='text-center text-2xl font-bold' href="East">East&emsp;</a>
+          <a className='text-center text-2xl font-bold' href="South">South&emsp;</a>
         </li>
       </ul>
     
